@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-single-page-app/static/css/main.5728e266.chunk.css",
+    "main.js": "/react-single-page-app/static/js/main.ea91f2ff.chunk.js",
+    "main.js.map": "/react-single-page-app/static/js/main.ea91f2ff.chunk.js.map",
+    "runtime-main.js": "/react-single-page-app/static/js/runtime-main.eb811498.js",
+    "runtime-main.js.map": "/react-single-page-app/static/js/runtime-main.eb811498.js.map",
+    "static/js/2.a52cabaa.chunk.js": "/react-single-page-app/static/js/2.a52cabaa.chunk.js",
+    "static/js/2.a52cabaa.chunk.js.map": "/react-single-page-app/static/js/2.a52cabaa.chunk.js.map",
+    "index.html": "/react-single-page-app/index.html",
+    "static/css/main.5728e266.chunk.css.map": "/react-single-page-app/static/css/main.5728e266.chunk.css.map",
+    "static/js/2.a52cabaa.chunk.js.LICENSE.txt": "/react-single-page-app/static/js/2.a52cabaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb811498.js",
+    "static/js/2.a52cabaa.chunk.js",
+    "static/css/main.5728e266.chunk.css",
+    "static/js/main.ea91f2ff.chunk.js"
+  ]
+}
